@@ -2,6 +2,9 @@
 //AP20110010566
 //IN THIS PROGRAM, WE ARE TAKING AN EXPRESSION AS INPUT AND DISPLAYING IDENTIFIERS AND OPERATORS ALONG WITH THEIR ADDRESS.
 
+In the given symbol Table program, I took an expression by this I define the tokens in the given one 
+And every token is compared and classified
+
 Given Expression:z=x+y;
 
 Code:
